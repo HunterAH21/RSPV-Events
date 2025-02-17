@@ -1,2 +1,0 @@
-# RSPV-Events
-Laravel Project
